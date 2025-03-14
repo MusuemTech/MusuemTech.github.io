@@ -1,0 +1,140 @@
+body {
+    background-color:#708090;
+    font-family: 'Sedan', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+p {
+    color: blue;
+    text-align: left;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+a{
+  font-weight: normal;
+  font-size: 25px; 
+  color: #000000;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+a:hover{
+  border-radius: 50px;
+  color: blue;
+  background-color: #FFF4BD;
+}
+img{
+  width: 150px;
+  height: 200px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 300px;
+  text-align: center
+}
+h4{
+   text-align: center;
+   font-weight: 500px;
+   font-size: 30px;
+   color: black;
+   text-decoration: underline;
+}
+#container{
+  margin: auto;
+  width: 700px;
+  height:400px;
+}
+#name{
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  background-color:#B22222;
+  padding-top: 15px;
+  font-family: "Dancing Script", cursive;
+}
+#hobbies{
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  background-color: mediumpurple;
+  padding-top: 15px;
+  font-family: "Dancing Script", cursive;
+  font-size: 30;
+}
+#links{
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  background-color:#8080ff;
+  padding-top: 25px;
+  
+}
+#about-me{
+  background-color:Plum;
+  padding: 15px;
+  font-family: "Dancing Script", static;
+  border: 10px solid black;
+  margin-top: 10px;
+  padding: 15px;
+}
+#about-me2{
+  background-color:Plum;
+  padding: 15px;
+  font-family: "Dancing Script", static;
+  border: 10px solid black;
+}
+
+h3{
+   text-align: left;
+   font-weight: 500px;
+   font-size: 30px;
+   color: black;
+   text-decoration: underline;
+}
+.hobby{
+  border: 5px dotted #FFF4BD;
+  padding: 10px;
+  margin-top: 10px;
+}
+.game{
+  width: 300px;
+  padding: 10px;
+  background-color: #FFF4BD;
+  color:#85D2D0;
+  position: absolute;
+}
+#games{
+  position: relative;
+  background-color: #85D2D0;
+}
+.first{
+  right: 10px;
+}
+.second{
+  left:15px;
+  top:250px;
+}
+.third{
+  right: 5px;
+  top: 500px;
+}
+video{
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  top: 800px;
+  left: 150px;
+}
+.project{
+  background-color:#F4B9B8;
+  padding: 15px;
+  font-family: "Dancing Script", static;
+  border: 10px solid black;
+  margin-top: 10px;
+  padding: 15px;
+}
