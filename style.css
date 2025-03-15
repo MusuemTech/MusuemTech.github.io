@@ -14,13 +14,32 @@ p {
     font-weight: normal;
     font-size: 20px;
 }
+p1{ 
+  color: white;
+}
+p5 {
+  color: black;
+  text-align: center;
+  font-weight:bold;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
 
+p6{
+  color:#000000;
+  text-align: left;
+  font-weight: lighter;
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif
+}
 a{
   font-weight: normal;
   font-size: 25px; 
   color: #000000;
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
   text-decoration: none;
 }
 a:hover{
@@ -71,24 +90,31 @@ h4{
   width: 100%;
   height: 50px;
   background-color:#8080ff;
-  padding-top: 25px;
+  padding-top: 20px;
   
 }
-#about-me{
-  background-color:Plum;
+#heading1{
+  background-color:#ee747e;
   padding: 15px;
   font-family: "Dancing Script", static;
-  border: 10px solid black;
   margin-top: 10px;
   padding: 15px;
 }
-#about-me2{
-  background-color:Plum;
+#overview{
+  background-color:rgb(240, 229, 240);
   padding: 15px;
-  font-family: "Dancing Script", static;
-  border: 10px solid black;
+  font-family:'Times New Roman', Times, serif;
 }
-
+#links2{
+  background-color:rgb(240, 229, 240);
+  padding: 15px;
+  font-family:'Times New Roman', Times, serif;
+}
+#businessstuff{
+  background-color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
 h3{
    text-align: left;
    font-weight: 500px;
